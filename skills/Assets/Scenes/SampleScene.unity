@@ -1273,8 +1273,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_goPrefab: {fileID: 2956551740754550181, guid: 067a610110c9e614a811a420ed97b355,
     type: 3}
-  m_force: 100
-  m_offset: {x: 0, y: -0.125, z: 0}
+  m_force: 200
+  m_offset: {x: 0, y: -1, z: 0}
 --- !u!65 &2127882974
 BoxCollider:
   m_ObjectHideFlags: 0
