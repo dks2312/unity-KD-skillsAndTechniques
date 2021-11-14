@@ -6,7 +6,7 @@ public class BackGroundScrolling : MonoBehaviour
 {
     [SerializeField] Transform[] m_tfBackgrounds = null;
     [SerializeField] float m_speed = 0f;
-
+ 
     float m_leftPosX = 0f;
     float m_rightPosX = 0f;
     void Start()
